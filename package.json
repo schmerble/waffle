@@ -1,0 +1,22 @@
+{
+  "name": "waffle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "waffle.js",
+  "scripts": {
+    "start": "parcel waffle.html",
+    "build": "parcel build waffle.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "buffer": "^6.0.3",
+    "parcel": "^2.10.1",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "@splinetool/runtime": "^0.9.492"
+  }
+}
